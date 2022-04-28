@@ -19,7 +19,7 @@ Data Source: https://www.football-data.co.uk/englandm.php
 
 Project Notebook: https://github.com/Alaa-Atef/English-Premier-League-Analysis/blob/main/Premier%20League%20Project.ipynb
 
-#### This project consists of 3 phases
+### This project consists of 3 phases
 
 ### Phase 1: Data Wrangling
 - Gathering the data
