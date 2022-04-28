@@ -16,3 +16,22 @@ I found a dataset which contains these data for each season of the premier leagu
 I have downloaded the data for 10 seasons from 2011/2012 till 2020/2021 and I'm working on my project with this data.
 
 Data Source: https://www.football-data.co.uk/englandm.php
+
+Project Notebook: https://github.com/Alaa-Atef/English-Premier-League-Analysis/blob/main/Premier%20League%20Project.ipynb
+
+#### This project consists of 3 phases
+
+### Phase 1: Data Wrangling
+- Gathering the data
+- Assessing the data
+- Cleaning the data
+
+### Phase 2: Data Analysis
+- Analysis
+- Visuals
+- Conclusions
+
+### Phase 3: Machine Learning
+- Machine learning models
+- Results and predictions
+
