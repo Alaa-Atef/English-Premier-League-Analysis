@@ -13,6 +13,6 @@ I found a dataset which contains these data for each season of the premier leagu
 - Number of goals scored by the away team at full time and that at half-time
 - Number of: shots, shots on target, corner kicks, fouls committed, yellow cards received, and red cards received. Each of these pieces of information is available for both the home team and the away team.
 
-I have downloaded the data for 10 seasons from 2011/2012 till 2020/2021 and I plan on making my project with this data.
+I have downloaded the data for 10 seasons from 2011/2012 till 2020/2021 and I'm working on my project with this data.
 
 Data Source: https://www.football-data.co.uk/englandm.php
