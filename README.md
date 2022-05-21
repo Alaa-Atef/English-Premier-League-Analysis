@@ -19,6 +19,15 @@ Data Source: https://www.football-data.co.uk/englandm.php
 
 Project Notebook: https://github.com/Alaa-Atef/English-Premier-League-Analysis/blob/main/Premier%20League%20Project.ipynb
 
+### In this project I answer some questions like:
+
+- Which team got more points through all the years ?
+- Which team got more goals through all the years ?
+- Which teams stayed at the premier league without getting relegated ?
+- Which refree tend to give more red cards ?
+- Does playing home affect the number of red cards you get ?
+- What features affect most the probability of a team winning a match ?
+
 ### This project consists of 3 phases
 
 ### Phase 1: Data Wrangling
