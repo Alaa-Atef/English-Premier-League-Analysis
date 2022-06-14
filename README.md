@@ -17,7 +17,8 @@ I have downloaded the data for 10 seasons from 2011/2012 till 2020/2021 and I'm 
 
 Data Source: https://www.football-data.co.uk/englandm.php
 
-To view the Notebook with all the visuals displayed correctly, please access the Project Notebook through this link:
+To view all the visuals in the Notebook displayed correctly, please access the Project Notebook through this link:
+https://github.com/Alaa-Atef/English-Premier-League-Analysis/blob/main/Premier%20League%20Project.ipynb
 
 ### In this project I answer some questions like:
 
